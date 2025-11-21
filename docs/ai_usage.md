@@ -1,5 +1,6 @@
-AI Use Log 
+####AI Use Log 
 
+###RBH Colab Notebook
 Task #1
 Tool/model & version: Chat-GPT 5 mini
 What I asked for: Help me set up code to run RBH for SPR-5 and KDM1A to confirm orthology
@@ -12,6 +13,8 @@ Tool/model & version: Chat-GPT 5 mini
 What I asked for: Help me run the forward and reverse best hits. Also help me summarize the top results in a seperate table.
 What I changed before committing: I edited code to help with formatting the table.
 How I verified correctness (tests, sample data): I looked up each TrEMBL ascession in UniProt to verify if follow-up hits were isoforms. I also compared the reciprocal hits which complement each other when analyzing outputs like percent identiy, evalue, and bitscore. 
+
+###Domain Annotation Notebook
 
 Task #3
 Tool/model & version: Chat-GPT 5 mini
